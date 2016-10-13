@@ -17,5 +17,3 @@ More lightening talks
 
 ###Cloud
 - 3
-- 4
-
